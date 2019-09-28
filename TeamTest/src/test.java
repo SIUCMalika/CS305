@@ -1,4 +1,7 @@
 
 public class test {
-	int c=2;
+	int a=2;
+	int b=15;
+	double area= a*b;
+	System.println("Area=" + area);
 }
